@@ -58,6 +58,7 @@ public class GT4500 implements SpaceShip {
           }
         }
         //ide beillesztettem egy sor kommentet
+        //Ez egy másik komment ugyanabban a sorban.
         else {
           // try to fire the primary first
           if (! primaryTorpedoStore.isEmpty()) {
