@@ -37,7 +37,7 @@ public class TorpedoStore {
     boolean success = false;
 
     // simulate random overheating of the launcher bay which prevents firing
-    
+    // kijavitottam a hibakat elnok ur
     double r = generator.nextDouble();
 
     if (r >= FAILURE_RATE) {
